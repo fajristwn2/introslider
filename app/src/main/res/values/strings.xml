@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Intro Slider</string>
+    <string name="title_activity_welcome">Home Screen</string>
+    <string name="next">NEXT</string>
+    <string name="skip">SKIP</string>
+    <string name="start">Getting Started</string>
+
+    <string name="slide_1_title">Hello Netizen budiman</string>
+    <string name="slide_1_desc">Aplikasi berguna untuk melihat data perkembangan covid19</string>
+
+    <string name="slide_2_title">Cuci Tangan</string>
+    <string name="slide_2_desc">Untuk meminimalisir semakin bertambahnya covid19
+        selalu jaga kerbersihan diri anda dengan mencuci tangan</string>
+
+    <string name="slide_3_title">Social distancing</string>
+    <string name="slide_3_desc">Jaga jarak anda dengan orang lain agar tidak tertular virus covid19</string>
+
+    <string name="slide_4_title">WFH(Work From Home)</string>
+    <string name="slide_4_desc">Kerja ataupun belajar lakukan lah dirumah, namun bila mengharuskan anda keluar rumah
+     gunakan lah masker selalu</string>
+
+    <string name="slide_5_title">Anda atau orang terdekat mengalami gejala?</string>
+    <string name="slide_5_desc">Gejala umum seperti demam,flu,mual dan sakit tenggorakan segera lah periksakan diri anda
+    namun jika kondisi mendesak segera hubungi Covid19.go.id</string>
+
+    <string name="play_again_desc">To see the welcome slider again, goto Settings -> apps -> welcome slider -> clear data</string>
+    <string name="play_again">Play Again</string>
+
+</resources>
